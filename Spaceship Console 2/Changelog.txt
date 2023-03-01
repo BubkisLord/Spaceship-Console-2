@@ -1,0 +1,24 @@
+﻿# Changelog
+This is the changelog from the Python version and the C# version of the game.
+
+
+## Major Changes
+Added 7 more planets:
+- Ahch-To
+- Corellia
+- Mandalore
+- Bepin
+- Coruscant
+- Duro
+- Tython
+
+Made modifiers to random ship health & points gained. (eg. If the ship is giant,
+the health is increased, and the points gained on killing the ship is increased too.)
+
+Added different effects when landing on different/new planets.
+
+## Minor Changes
+Autosave game when died.
+Added a check for when already visited a planet. (Only applies to some of the planets.)
+Neatened up some code.
+Fixed some minor errors.
